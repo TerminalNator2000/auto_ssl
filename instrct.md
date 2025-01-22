@@ -24,7 +24,7 @@
 
 5. **Install the Root CA in Your System/Browser:**  
 
-# Use the instructions in **Step 6** from the previous section to trust the `rootCA.pem` file.
+Use the instructions in **Step 6** from the previous section to trust the `rootCA.pem` file.
 Install the Root CA in Browsers/OS
 Add the rootCA.pem file to your OS/browser as a trusted CA:
 
